@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqfpay_sdk=self.webpackChunkqfpay_sdk||[]).push([[131],{8736:a=>{a.exports=JSON.parse('{"title":"Preparation","slug":"/category/preparation","permalink":"/docs/v2/docs/category/preparation","navigation":{"next":{"title":"Introduction","permalink":"/docs/v2/docs/preparation/introduction"}}}')}}]);

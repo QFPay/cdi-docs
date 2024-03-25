@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqfpay_sdk=self.webpackChunkqfpay_sdk||[]).push([[3238],{59418:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/docs/v2/zh/blog/tags/hola","allTagsPath":"/docs/v2/zh/blog/tags","count":1,"unlisted":false}')}}]);
