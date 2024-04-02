@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqfpay_sdk=self.webpackChunkqfpay_sdk||[]).push([[9521],{96873:a=>{a.exports=JSON.parse('{"title":"\u63a5\u5165\u51c6\u5907","slug":"/category/preparation","permalink":"/docs/v2/zh-Hans/docs/category/preparation","navigation":{"next":{"title":"\u7b80\u4ecb","permalink":"/docs/v2/zh-Hans/docs/preparation/introduction"}}}')}}]);
