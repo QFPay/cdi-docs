@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqfpay_sdk=self.webpackChunkqfpay_sdk||[]).push([[7028],{92341:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/zh-Hans/blog/tags/docusaurus","allTagsPath":"/zh-Hans/blog/tags","count":4,"unlisted":false}')}}]);

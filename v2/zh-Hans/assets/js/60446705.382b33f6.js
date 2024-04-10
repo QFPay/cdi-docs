@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqfpay_sdk=self.webpackChunkqfpay_sdk||[]).push([[6797],{38012:e=>{e.exports=JSON.parse('{"permalink":"/zh-Hans/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
